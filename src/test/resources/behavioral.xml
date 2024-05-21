@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Behavioral patterns">
+    <test name="Behavioral patterns">
+        <packages>
+            <package name="com.udemy.selenium.test.strategy"></package>
+            <package name="com.udemy.selenium.test.template"></package>
+            <package name="com.udemy.selenium.test.command"></package>
+            <package name="com.udemy.selenium.test.executearound"></package>
+        </packages>
+    </test>
+</suite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Creational patterns">
+    <test name="Creational patterns">
+        <packages>
+            <package name="com.udemy.selenium.test.factory"></package>
+        </packages>
+    </test>
+</suite>
